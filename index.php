@@ -87,6 +87,7 @@
             </ul>
             </div>
             <div id="tab1" class="col s12">
+                <h4>Título tab 1</h4>
                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
                 tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
                 quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
@@ -95,7 +96,7 @@
                 proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
             </div>
             <div id="tab2" class="col s12">
-                <img src="img/mesa.jpg">
+                <img class="imagen-w" src="img/mesa.jpg">
             </div>
             <div id="tab3" class="col s12">
                 <h3>Tab 3</h3>
